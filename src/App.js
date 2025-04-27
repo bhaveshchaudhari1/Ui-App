@@ -1,11 +1,13 @@
 import React from "react";
 import "./App.css";
+
+
 const App = () => {
   return (
     <div>
-      <h1 className="heading">GeeksForGeeks</h1>
+      <h1 className="heading">Hey Bhavesh !</h1>
       <h4 className="sub-heading">
-        A computer science portal for geeks
+        Let's Begin
       </h4>
     </div>
   );
